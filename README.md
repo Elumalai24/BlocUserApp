@@ -8,7 +8,7 @@ These instructions will help you get a copy of the project up and running on you
 
 
 
-https://github.com/Elumalai24/BlocUserApp/assets/93655628/88064c93-fbf2-43c2-b5ce-3bf0640ef312
+https://github.com/Elumalai24/BlocUserApp/assets/93655628/f6c53e1b-fbcf-427f-aab3-9818dabf4699
 
 
 
